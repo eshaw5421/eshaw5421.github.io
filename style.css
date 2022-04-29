@@ -1,8 +1,8 @@
 body {
     background-color: navy;
+    text-align: center;
 }
 a {
     color: white;
-    text-align: center;
     font-size: 30px;
 }
